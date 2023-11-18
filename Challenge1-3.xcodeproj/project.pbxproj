@@ -90,7 +90,6 @@
 		CE729A912AC6286300FB2933 = {
 			isa = PBXGroup;
 			children = (
-				CE729AB12AC629A800FB2933 /* DetailViewController.swift */,
 				CE729A9C2AC6286300FB2933 /* Challenge1-3 */,
 				CE729A9B2AC6286300FB2933 /* Products */,
 			);
@@ -110,6 +109,7 @@
 				CE729A9D2AC6286300FB2933 /* AppDelegate.swift */,
 				CE729A9F2AC6286300FB2933 /* SceneDelegate.swift */,
 				CE729AA12AC6286300FB2933 /* ViewController.swift */,
+				CE729AB12AC629A800FB2933 /* DetailViewController.swift */,
 				CE729AA32AC6286300FB2933 /* Main.storyboard */,
 				CE729AA62AC6286500FB2933 /* Assets.xcassets */,
 				CE729AA82AC6286500FB2933 /* LaunchScreen.storyboard */,
